@@ -272,23 +272,4 @@ USD_JPY_RATE = 0.0067              # Current FX rate
 
 
 
----
-
-## 🎓 Learning Path
-
-**For Data Analysts:**
-- Start with 01 → 02 for EDA fundamentals
-- Study 04 for monetization modeling
-
-**For Energy Engineers:**
-- Start with 02 for regional grid patterns
-- Study 03 for temporal load-matching strategies
-
-**For Business Strategists:**
-- Jump directly to 05 for revenue projections
-- Read `outputs/summary_report.md` for executive brief
-
----
-
-## 
-
+--
